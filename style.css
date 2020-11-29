@@ -15,7 +15,8 @@ color: red;
 
 }
 
-container {
-border: 2px solid pink;
+.container {
+
+border: 20px solid pink;
 
 }
