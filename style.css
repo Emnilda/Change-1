@@ -10,13 +10,18 @@ margin: 0;
 
 p::first-of-type {
 
-color: red;
+color: violet;
 
 
 }
 
+<<<<<<< HEAD
 .container {
 
 border: 20px solid pink;
+=======
+container {
+border: 2px solid blue;
+>>>>>>> 6d79e2117ec3689a08684523ac4e563d993875ff
 
 }
